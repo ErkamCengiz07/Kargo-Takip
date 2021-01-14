@@ -1,0 +1,36 @@
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form1.resources
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.Cache
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+d:\users\rakbuz\documents\visual studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+d:\Users\rakbuz\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+D:\Users\rakbuz\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.musteri.resources
+D:\Users\rakbuz\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.admin.resources
+D:\Users\rakbuz\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\Interop.WMPLib.dll
+D:\Users\rakbuz\Documents\Visual Studio 2015\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.ResolveComReference.cache
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\Interop.WMPLib.dll
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.ResolveComReference.cache
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.admin.resources
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form1.resources
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.musteri.resources
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\KAAN\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.Cache
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\Interop.WMPLib.dll
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.ResolveComReference.cache
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.admin.resources
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form1.resources
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.musteri.resources
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\ramazan\Desktop\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.Cache
